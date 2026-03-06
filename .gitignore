@@ -1,0 +1,7 @@
+venv/ 
+__pycache__/ 
+*.pyc 
+uploads/ 
+backend_bioledge-ai.zip 
+dataset/ 
+*.zip 
